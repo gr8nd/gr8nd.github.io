@@ -1,0 +1,299 @@
+TERMS OF SERVICE
+
+Ludo AI
+
+Effective Date: 7 November 2026
+
+Developer: NDUBUISI CHUKWU OKORIE
+Publishing Brand: Neosoft Studio
+Location: Uyo, Akwa Ibom State, Nigeria
+Contact Email: studioneosoft@gmail.com
+
+1. ACCEPTANCE OF TERMS
+
+Welcome to Ludo AI ("the App"), developed and published by NDUBUISI CHUKWU OKORIE, operating under the publishing brand Neosoft Studio ("we", "us", "our" or "Developer").
+
+By downloading, installing, accessing or using the App, you agree to be bound by these Terms of Service ("Terms").
+
+If you do not agree with these Terms, you should discontinue using the App.
+
+These Terms apply to all users of the App, including users of its single-player, AI, multiplayer, tournament and other available game features.
+
+2. ELIGIBILITY AND AGE REQUIREMENTS
+
+The App is intended for individuals aged 16 years and above.
+
+By using the App, you confirm that:
+
+- You are at least 16 years old.
+- You have the legal capacity to agree to these Terms or have obtained any legally required parental or guardian consent.
+- You will use the App in compliance with applicable laws and regulations.
+
+We reserve the right to restrict access where we reasonably believe that a user does not meet the applicable age requirements.
+
+3. ABOUT THE APP
+
+Ludo AI is a digital board game that provides users with an interactive gaming experience.
+
+Depending on the version and features available, the App may include:
+
+- Single-player Ludo games against artificial intelligence (AI) opponents.
+- Multiple AI difficulty levels.
+- Different game modes and gameplay challenges.
+- Multiplayer games with other players.
+- Online tournaments and competitive matches.
+- Survival challenges and Ultimate Gauntlet challenges.
+- AI Arena and other special game modes.
+- Virtual coins and in-game rewards.
+- Customisation features, including board styles, token styles, avatars, dice colours and other available game items.
+
+We may introduce, modify, improve or discontinue features as the App develops.
+
+4. USER ACCOUNTS AND SECURITY
+
+Certain features may require a user account or an identifiable player profile.
+
+Where account functionality is provided, you agree to:
+
+- Provide accurate information where required.
+- Keep your account credentials and access information secure.
+- Avoid impersonating other players or individuals.
+- Avoid creating accounts for fraudulent or abusive purposes.
+- Take reasonable steps to prevent unauthorised access to your account.
+
+You are responsible for activities carried out through your account, except where applicable law provides otherwise.
+
+We may restrict or suspend accounts involved in fraud, cheating, abuse or violations of these Terms.
+
+5. MULTIPLAYER AND ONLINE GAMEPLAY
+
+The App provides online multiplayer functionality that allows users to play Ludo games with other players.
+
+By participating in multiplayer games, you agree to:
+
+- Play fairly and respect other participants.
+- Avoid manipulating game outcomes.
+- Avoid exploiting bugs, glitches or technical vulnerabilities.
+- Avoid deliberately disrupting games or interfering with other players.
+- Respect the rules of individual game rooms, tournaments and competitions.
+
+We do not guarantee uninterrupted multiplayer availability. Online gameplay may occasionally be affected by internet connectivity, server maintenance, technical failures or circumstances beyond our control.
+
+We reserve the right to modify multiplayer functionality where necessary for security, fairness, maintenance or service improvement.
+
+6. VIRTUAL COINS AND IN-GAME CURRENCY
+
+The App may offer virtual coins or other in-game currencies.
+
+Virtual coins:
+
+- Are digital items intended for use within the App.
+- Have no monetary value outside the App.
+- Cannot be exchanged for real money.
+- Are not bank deposits, investments or financial instruments.
+- Cannot be sold, transferred or exchanged outside the App unless we expressly permit it.
+
+Virtual coins may be obtained through gameplay, rewards, promotions or in-app purchases, depending on the features available.
+
+We reserve the right to adjust coin prices, rewards, balances and the availability of coin-related features where reasonably necessary for game operation, balancing or security.
+
+We may remove or adjust virtual coins obtained through fraud, cheating, unauthorised transactions or exploitation of technical vulnerabilities.
+
+7. IN-APP PURCHASES AND DIGITAL CONTENT
+
+The App may offer optional digital purchases, including:
+
+- Virtual coin packages.
+- Ad-removal purchases.
+- Premium or Pro features.
+- Board styles.
+- Token styles.
+- Avatars.
+- Dice colours and other customisation options.
+- Other digital content and features.
+
+All purchases are processed through Google Play or another authorised payment provider made available by us.
+
+By making a purchase, you agree to the applicable payment provider's terms and conditions.
+
+Refund Policy
+
+Digital purchases and virtual coins are generally non-refundable once successfully delivered or credited to your account, except where a refund is required by applicable law or the applicable Google Play refund policies.
+
+If you experience a payment problem, including a successful payment without receiving the purchased item, contact us at:
+
+studioneosoft@gmail.com
+
+Please include relevant transaction details, such as your Google Play order number, so that we can investigate the issue.
+
+We reserve the right to correct purchase-related errors and investigate suspected fraudulent transactions.
+
+8. ADVERTISEMENTS AND AD-REMOVAL FEATURES
+
+The App may display advertisements provided by third-party advertising networks, including Google AdMob.
+
+Advertisements may appear in different formats, depending on the App version and available features.
+
+Users may also have access to an optional ad-removal purchase.
+
+Purchasing ad removal may disable certain advertisements covered by that purchase. It does not necessarily remove all third-party content, external links or promotional information that may be displayed independently of the covered advertising features.
+
+We do not control the content, availability or operation of third-party advertising services and are not responsible for their independent websites or services.
+
+Your interaction with third-party advertisements is subject to the applicable third party's terms and privacy policies.
+
+9. FAIR PLAY AND PROHIBITED ACTIVITIES
+
+You agree not to:
+
+- Use cheats, hacks, bots or unauthorised automation to gain an unfair advantage.
+- Modify, reverse engineer or tamper with the App except where such activity is permitted by applicable law.
+- Exploit bugs or vulnerabilities to obtain coins, rewards or other benefits.
+- Interfere with the App's servers, databases or network infrastructure.
+- Attempt to access another user's account without authorisation.
+- Distribute malware or other harmful software through the App.
+- Manipulate multiplayer matches, tournaments or game results.
+- Use the App for fraudulent, unlawful or abusive purposes.
+
+We may take appropriate action against users who violate these restrictions, including restricting features, removing rewards or suspending access.
+
+10. INTELLECTUAL PROPERTY RIGHTS
+
+All intellectual property rights in the App, including its software, design, graphics, artwork, animations, logos, branding, game interfaces and original content, belong to the Developer or their respective licensors.
+
+You are granted a limited, personal, non-exclusive, non-transferable and revocable licence to use the App for lawful personal entertainment purposes.
+
+You may not reproduce, distribute, sell, commercially exploit or create unauthorised derivative works from the App or its content without prior written permission, except where permitted by applicable law.
+
+Nothing in these Terms transfers ownership of the App or its intellectual property to you.
+
+11. PRIVACY AND DATA PROTECTION
+
+Your privacy is important to us.
+
+Our collection, processing, storage and use of personal information are explained in our Privacy Policy.
+
+By using the App, you acknowledge that certain information may be processed to provide gameplay, multiplayer functionality, account-related services, advertising, analytics, security and other App features, as described in the Privacy Policy.
+
+Privacy Policy: [INSERT YOUR LUDO AI PRIVACY POLICY URL]
+
+We encourage you to read the Privacy Policy carefully before using the App.
+
+12. THIRD-PARTY SERVICES
+
+The App may integrate with or rely on third-party services, including:
+
+- Google Play Services.
+- Google AdMob.
+- Firebase services.
+- Third-party payment and infrastructure providers.
+
+These services may be subject to their own terms, policies and privacy practices.
+
+We are not responsible for independent third-party services, their availability, or changes made to their platforms.
+
+Your use of those services may also be governed by their respective agreements.
+
+13. SERVICE AVAILABILITY AND MODIFICATIONS
+
+We aim to maintain a reliable and enjoyable gaming experience.
+
+However, we do not guarantee that the App will always be available, uninterrupted, error-free or compatible with every device.
+
+We may:
+
+- Release updates and new versions.
+- Modify game mechanics or features.
+- Introduce new game modes.
+- Adjust AI difficulty and gameplay balancing.
+- Perform maintenance.
+- Temporarily suspend certain features.
+- Discontinue features where reasonably necessary.
+
+We will endeavour to provide reasonable notice of significant changes where appropriate and required by law.
+
+14. ACCOUNT SUSPENSION AND TERMINATION
+
+We reserve the right to suspend, restrict or terminate access to the App or specific features if:
+
+- You violate these Terms.
+- You engage in cheating, fraud or abusive conduct.
+- You threaten the security or integrity of the App.
+- Your activities cause harm to other users.
+- We are required to do so by law or a competent authority.
+
+Where appropriate, we may provide an explanation for the action taken.
+
+You may stop using the App at any time by uninstalling it and discontinuing your use of its services.
+
+Termination does not affect rights or obligations that, by their nature, should continue after termination.
+
+15. DISCLAIMER OF WARRANTIES
+
+The App is provided on an "as available" basis.
+
+To the fullest extent permitted by applicable law, we make no guarantee that:
+
+- The App will operate without interruptions or technical errors.
+- All features will remain available indefinitely.
+- Multiplayer services will always be accessible.
+- AI opponents will always produce identical or predictable gameplay outcomes.
+- The App will be compatible with every device or operating system.
+
+Nothing in these Terms excludes any warranty or consumer right that cannot lawfully be excluded.
+
+16. LIMITATION OF LIABILITY
+
+To the fullest extent permitted by applicable law, the Developer shall not be liable for indirect, incidental, special or consequential losses arising from the use of, or inability to use, the App.
+
+This includes losses resulting from temporary service interruptions, network failures, third-party service disruptions or unauthorised access, except where such liability cannot lawfully be excluded.
+
+Nothing in these Terms excludes or limits liability for fraud, wilful misconduct, gross negligence where applicable, or any other liability that cannot legally be excluded or limited.
+
+Nothing in these Terms affects your statutory consumer rights.
+
+17. INDEMNIFICATION
+
+To the extent permitted by applicable law, you agree to be responsible for losses, claims or expenses arising directly from your unlawful use of the App or your material violation of these Terms.
+
+This provision does not require you to indemnify us for losses caused by our own unlawful conduct or where such an obligation would be prohibited by applicable law.
+
+18. GOVERNING LAW AND DISPUTE RESOLUTION
+
+These Terms shall be governed by the laws of the Federal Republic of Nigeria, subject to applicable mandatory consumer-protection laws and regulations.
+
+We encourage users to contact us first to resolve complaints or disputes amicably.
+
+Where a dispute cannot be resolved informally, it may be referred to the competent courts in Nigeria, without prejudice to any mandatory rights or jurisdiction available to consumers under applicable law.
+
+19. CHANGES TO THESE TERMS
+
+We may update these Terms from time to time to reflect changes in the App, our services, applicable laws or business operations.
+
+When we make significant changes, we may provide notice through the App, an appropriate online channel or an updated publication date.
+
+Your continued use of the App after updated Terms become effective constitutes acceptance of the revised Terms, to the extent permitted by applicable law.
+
+20. SEVERABILITY
+
+If any provision of these Terms is found to be invalid, unlawful or unenforceable, the remaining provisions shall continue to apply to the fullest extent permitted by law.
+
+21. ENTIRE AGREEMENT
+
+These Terms, together with our Privacy Policy and any additional terms presented for specific features or purchases, constitute the agreement governing your use of the App.
+
+If any additional feature-specific terms conflict with these Terms, the feature-specific terms shall apply to the relevant feature to the extent of the conflict.
+
+22. CONTACT INFORMATION
+
+If you have questions, complaints, suggestions or concerns regarding these Terms or the App, please contact us:
+
+Developer: NDUBUISI CHUKWU OKORIE
+Publishing Brand: Neosoft Studio
+Location: Uyo, Akwa Ibom State, Nigeria
+Email: studioneosoft@gmail.com
+
+We appreciate your support and thank you for playing Ludo AI.
+
+© 2026 NDUBUISI CHUKWU OKORIE / Neosoft Studio. All rights reserved.
+
